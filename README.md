@@ -4,6 +4,12 @@ This project focuses on predicting Gurgaon house values which is based on the 19
 
 Among different machine learning models tested, the Random Forest Regressor gave the best accuracy, making it the final choice for this project.
 
+---
+# Project Work flow
+![Architecture](project_work_flow.png)
+
+---
+
 
 #📌 Project Overview
 
